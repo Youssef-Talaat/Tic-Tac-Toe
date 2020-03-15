@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  TicTacToe.cpp
+c:\users\youssef\documents\visual studio 2015\projects\tictactoe\tictactoe\tictactoe.cpp(447): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\youssef\documents\visual studio 2015\projects\tictactoe\tictactoe\tictactoe.cpp(663): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\youssef\documents\visual studio 2015\projects\tictactoe\tictactoe\tictactoe.cpp(436): warning C4715: 'Play_again': not all control paths return a value
+  TicTacToe.vcxproj -> c:\users\youssef\documents\visual studio 2015\Projects\TicTacToe\Debug\TicTacToe.exe
+  TicTacToe.vcxproj -> c:\users\youssef\documents\visual studio 2015\Projects\TicTacToe\Debug\TicTacToe.pdb (Full PDB)
